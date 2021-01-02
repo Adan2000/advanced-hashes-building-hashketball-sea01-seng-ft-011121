@@ -16,6 +16,7 @@ def game_hash
        :rebounds,
        :assists, 
        :steals, 
+       :steals,
        }] 
       },
    :away => {
