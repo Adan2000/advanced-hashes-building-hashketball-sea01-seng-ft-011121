@@ -18,6 +18,7 @@ def game_hash
        :steals, 
        :steals,
        :blocks, 
+       :slam_dunks,
        }] 
       },
    :away => {
