@@ -9,15 +9,15 @@ def game_hash
      :team_name => "Brooklyn Nets",
      :colors => "Black, White",
      :players => [
-       :player_name => "Alan Anderson", "Reggie Evans"
-       :number => 0, 30,
-       :shoe => 16, 14,
-       :points => 22, 12,
-       :rebounds => 12, 12, 
-       :assists => 12, 12, 
-       :steals => 3, 12, 
-       :blocks => 1, 12, 
-       :slam_dunks => 1, 7, 
+       :player_name => "Alan Anderson", 
+       :number => 0, 
+       :shoe => 16, 
+       :points => 22, 
+       :rebounds => 12, 
+       :assists => 12, 
+       :steals => 3, 
+       :blocks => 1, 
+       :slam_dunks => 1, 
    ]
      
    },
